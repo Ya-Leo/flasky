@@ -1,4 +1,10 @@
--r prod.txt
-Flask-SSLify==0.1.5
-gunicorn==19.7.1
-psycopg2==2.7.3
+flask
+flask-login
+flask-mail
+flask-bootstrap
+flask-moment
+flask-script
+flask-wtf
+email-validator
+setuptools
+wheel
